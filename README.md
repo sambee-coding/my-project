@@ -1,1 +1,1 @@
-This is my very forst well bulit project as a beginner ,that is my own idea i thought someone can use it and get the mood back he/she had
+This is my very first well-built project as a beginner. It’s my own idea, and I thought someone could use it to get back the mood they once had
