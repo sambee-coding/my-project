@@ -1,0 +1,27 @@
+.contianer img{
+    width: 600px;
+   height: 400px;
+
+}
+.contianer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    text-align: center;
+ 
+}
+.text h1{
+       font-weight:bolder ;
+}
+.btn{
+    background-color: antiquewhite;
+    color: grey;
+    
+}
+.buto{
+  text-align: center;
+  margin-top: 10px;
+}
+
